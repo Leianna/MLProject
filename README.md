@@ -1,5 +1,5 @@
 # MLProject
-Final project for ML\
+Final project for ML
 ## Title
 Flower Recognition (using CNN) Proposal
 
